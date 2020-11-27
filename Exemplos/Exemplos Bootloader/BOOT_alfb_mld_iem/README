@@ -1,0 +1,7 @@
+comandos:
+-help -> fornece os comandos do SO
+-spiral -> funciona como um clear no terminal do linux, mas foi adicionada uma animação em espiral
+-snake -> joga snake
+-alexkid -> Animação com o personagem de alexkid
+
+comando secreto: digitar a senha no terminal (senha padrão: 0474)
